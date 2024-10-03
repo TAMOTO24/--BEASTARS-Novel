@@ -1,0 +1,8 @@
+Jack_Usual<<
+Jack;Hey Legosi..!|If Everything alright?|+
+Miguno;You don't look well.|+
+Miguno<<
+Miguno;Well, if that it then go rest for a minute|+
+Jack;Yeah! Have a nice rest Legosi!|+
+Jack<<
+Legosi;Thanks|-

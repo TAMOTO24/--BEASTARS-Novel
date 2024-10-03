@@ -1,0 +1,10 @@
+Lemur; Ёльза, ты в пор€дке?|+
+DimmingSc
+Frame4.5<<
+UnDimmingSc
+Els; ƒ-да...|+
+DimmingSc
+Frame4.6<<
+UnDimmingSc
+StopTime=
+DimmingSc
