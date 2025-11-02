@@ -4,7 +4,7 @@
 ---
 
 ## 🎥 Project Trailer  
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/user-attachments/assets/3525a481-71f2-42dd-809b-3df7320aec01)
+[![Watch the video](https://github.com/user-attachments/assets/3525a481-71f2-42dd-809b-3df7320aec01)
 *(Click the image to watch the demo)*
 
 ---
