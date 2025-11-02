@@ -4,7 +4,13 @@
 ---
 
 ## 🎥 Project Trailer  
-[![Watch the video](https://github.com/user-attachments/assets/3525a481-71f2-42dd-809b-3df7320aec01)
+
+
+
+https://github.com/user-attachments/assets/fedacd99-5e8d-4a7e-a255-381fc59c9cc3
+
+
+
 *(Click the image to watch the demo)*
 
 ---
@@ -28,7 +34,7 @@ Whether you're a fan of the original *Beastars* series or simply enjoy **thought
 ---
 
 ## 📚 Author
-**[Your Name]**  
-*University Diploma Project, 2025*
+**TAMOTO the artist**  
+*University Diploma Project, 2021*
 
 ---
